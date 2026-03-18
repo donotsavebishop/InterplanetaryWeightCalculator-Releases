@@ -1,4 +1,4 @@
-NOTE: The semantic versioning of this program is not entirely standardized.
+NOTE: The versioning of this program is not entirely standardized.
 
 NOTE: No source code is available in this repository.
 
